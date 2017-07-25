@@ -3,6 +3,8 @@
    <title>Docker Library</title>
 </head>
 <body>
+   <img src="docker.png" />
+   <br>
    <h1>Docker Library</h1>
 
 <?php
