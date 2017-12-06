@@ -50,6 +50,11 @@
       print "<h3>Meanwhile you can check <a href=\"https://docs.docker.com/\">here</a> for more information.\n";
    }
 ?>
+   
+   <br />
+   <br />
+   <hr />
+   <h3>Automatization is the Key! :)</h3>
 
 </body>
 </html>
