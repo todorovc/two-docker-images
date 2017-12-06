@@ -5,13 +5,13 @@
 <body>
    <img src="docker.png" />
    <br>
-   <h1>LDO Demo: Docker Library</h1>
+   <h1>Demo: Docker Library</h1>
 
 <?php
    $database = "docker_info";
    $user = "root";
    $password  = "12345";
-   $host = "ldo-mysql";
+   $host = "dob-mysql";
 
    try {
       $connection = new PDO("mysql:host={$host};dbname={$database};charset=utf8", $user, $password);
