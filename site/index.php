@@ -1,11 +1,11 @@
 <html>
 <head>
-   <title>Docker Library ICO ICO ICO</title>
+   <title>Docker Library </title>
 </head>
 <body>
    <img src="docker.png" />
    <br>
-   <h1>Demo: Docker Library</h1>
+   <h1>Demo: Docker Library ICO ICO ICo ICO </h1>
 
 <?php
    $database = "docker_info";
@@ -54,7 +54,7 @@
    <br />
    <br />
    <hr />
-   <h3>Automatization is the Key! :) Ico</h3>
+   <h3>Automatization is the Key! :)</h3>
 
 </body>
 </html>
