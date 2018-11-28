@@ -1,6 +1,6 @@
 <html>
 <head>
-   <title>Docker Library</title>
+   <title>Docker Library ICO ICO ICO</title>
 </head>
 <body>
    <img src="docker.png" />
