@@ -5,7 +5,7 @@
 <body>
    <img src="docker.png" />
    <br>
-   <h1>Demo: Docker Library Christo </h1>
+   <h1>Demo: Docker Library </h1>
 
 <?php
    $database = "docker_info";
