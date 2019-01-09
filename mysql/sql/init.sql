@@ -10,7 +10,7 @@ CREATE TABLE docker_commands
     command_description varchar(255)
 );
 
-INSERT INTO docker_commands VALUES (1, 'container', 'attach [OPTIONS] CONTAINER', 'Attach to a running container!!!!!! ');
+INSERT INTO docker_commands VALUES (1, 'container', 'attach [OPTIONS] CONTAINER', 'Attach to a running container ');
 INSERT INTO docker_commands VALUES (2, 'container', 'exec [OPTIONS] CONTAINER COMMAND [ARG...]', 'Run a command in a running container');
 INSERT INTO docker_commands VALUES (3, 'container', 'ls [OPTIONS]', 'List containers');
 INSERT INTO docker_commands VALUES (4, 'container', 'prune [OPTIONS]', 'Remove all stopped containers');
